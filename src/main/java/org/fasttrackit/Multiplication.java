@@ -6,4 +6,8 @@ public class Multiplication {
         return x * y;
     }
 
+    public double increasing (double x, double y){
+        return x * y;
+    }
+
 }
